@@ -1,0 +1,13 @@
+p.Success {
+    width: 200px;
+    background-color: green;
+    font-family: monospace;
+    color: white;
+}
+
+p.fail {
+    width: 200px;
+    background-color: red;
+    font-family: monospace;
+    color: white;
+}

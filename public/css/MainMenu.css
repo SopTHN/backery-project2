@@ -1,0 +1,117 @@
+Table {
+    width: 75%;
+    Background-color: rgb(75, 75, 75);
+}
+
+td.Snd_Row-left {
+    Width:17%;
+    margin-left: 5px;
+    background-color: white;
+}
+
+Table.Snd_Row-left {
+    Width: 100%;
+    Background-color: white;
+}
+
+td.Snd_Row-Right {
+    Width: 75%;
+    height: 200px;
+    Background-color: white;
+}
+
+Table.Snd_Row-Right {
+    Width: 100%;
+    Background-color: white;
+}
+
+table.Products {
+    width: 50%;
+    height: auto;
+    margin-bottom: 5px;
+    background-color: white;
+    border: 1px Solid black;
+}
+
+table.Products_add_update {
+    width: 50px;
+    height: auto;
+    margin-bottom: 5px;
+    background-color: white;
+}
+
+table.Customers {
+    width: 100%;
+    height: auto;
+    margin-bottom: 5px;
+    background-color: white;
+    border: 1px Solid black;
+}
+
+table.Customer_info {
+    width: 300px;
+    height: auto;
+    margin-bottom: 5px;
+    background-color: white;
+    border: 1px Solid black;
+}
+
+table.Orders {
+    background-color: white;
+    width: 400px;
+    border: 1px Solid black;
+}
+
+table.Orders_User {
+    background-color: white;
+    width: 650px;
+    border: 1px Solid black;
+}
+
+table.Orders_other_info {
+    background-color: white;
+    width: 300px;
+}
+
+table.Cart {
+    background-color: white;
+    border: 1px Solid black;
+}
+
+table.bill {
+    background-color: white;
+    border: 1px Solid black;
+}
+
+table.Order_Fields {
+    background-color: white;
+}
+
+body {
+    background-image: url(public\Images\Savin-NY-Website-Background-Web.jpg);
+}
+
+button.Snd_Row-left {
+    width: 100%;
+    height: 100%;
+}
+
+
+button {
+    width: auto;
+    height: auto;
+}
+
+p.Main_Title {
+    margin-left: 20px;
+    font-family: monospace;
+    font-size: 15px;
+    color: white
+}
+
+a.Main_Title {
+    font-size: 15px;
+    font-family: monospace;
+    margin-right: 20px;
+    color: white
+}
